@@ -21,4 +21,16 @@ The objective is to analysis the web-series data and also  used that dataset to 
 
 **Hive:** Hive is used  to facilitates easy data summarization, ad-hoc queries, and the analysis of web-seires datasets stored in Hadoop compatible file systems.
 
+# Features
+
+* Created a table in hive using HiveQL create command and loaded the data into a Hive table.
+* Did some analysis on that dataset with the help of Hive queries.
+* Stored output of Hive queries into a file in HDFS.
+* Applied Partitioning and Bucketing concepts in Hive.
+
+# References
+
+https://www.tutorialspoint.com/hive/hive_create_table.htm
+https://www.geeksforgeeks.org/hive-load-data-into-table/
+https://sparkbyexamples.com/apache-hive/hive-partitioning-vs-bucketing-with-examples/
 
