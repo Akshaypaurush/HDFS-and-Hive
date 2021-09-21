@@ -30,7 +30,7 @@ The objective is to analysis the web-series data and also  used that dataset to 
 
 # References
 
-https://www.tutorialspoint.com/hive/hive_create_table.htm
-https://www.geeksforgeeks.org/hive-load-data-into-table/
-https://sparkbyexamples.com/apache-hive/hive-partitioning-vs-bucketing-with-examples/
+* https://www.tutorialspoint.com/hive/hive_create_table.htm
+* https://www.geeksforgeeks.org/hive-load-data-into-table/
+* https://sparkbyexamples.com/apache-hive/hive-partitioning-vs-bucketing-with-examples/
 
