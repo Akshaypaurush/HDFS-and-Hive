@@ -17,8 +17,8 @@ The objective is to analysis the web-series data and also  used that dataset to 
 
 # Technologies Used
 
-HDFS:  for storing large web-series dataset and provides easier access to hive tables.
+**HDFS:** For storing large web-series dataset and provides easier access to hive tables.
 
-Hive: Hive is used  to facilitates easy data summarization, ad-hoc queries, and the analysis of web-seires datasets stored in Hadoop compatible file systems.
+**Hive:** Hive is used  to facilitates easy data summarization, ad-hoc queries, and the analysis of web-seires datasets stored in Hadoop compatible file systems.
 
 
