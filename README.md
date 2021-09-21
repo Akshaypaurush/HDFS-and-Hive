@@ -7,11 +7,18 @@ For this Big-data project, I took the web-series data from Kaggle website, and c
 # Objective
 
 The objective is to analysis the web-series data and also  used that dataset to answer the following questions:
-Which streaming platform(s) can I find this web series on?
+* Which streaming platform(s) can I find this web series on?
 Average IMDb rating and other ratings
 What is the genre of the title?
 What is the synopsis?
 How many seasons are there right now?
 Which year this was produced?
 For which age group this web-series is appropriate.
+
+# Technologies Used
+
+HDFS:  for storing large web-series dataset and provides easier access to hive tables.
+
+Hive: Hive is used  to facilitates easy data summarization, ad-hoc queries, and the analysis of web-seires datasets stored in Hadoop compatible file systems.
+
 
